@@ -1,0 +1,17 @@
+╔══════════════════════════════════════════╗
+║ o o o                                    ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  $ whoami                                ║
+║  > Bobkin Street                         ║
+║                                          ║
+║  $ cat links.txt                         ║
+║  > https://t.me/bobkinstreet/            ║
+║  > https://blog.bobkinstreet.ru/         ║
+║                                          ║
+║  $ echo $EMAIL                           ║
+║  > 14@bobkinstreet.ru                    ║
+║                                          ║
+║  $ _                                     ║
+║                                          ║
+╚══════════════════════════════════════════╝
